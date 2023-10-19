@@ -1,0 +1,145 @@
+@media only screen and (max-width: 770px) {
+    nav{
+        width: 100vw;
+
+    }
+    .container{
+        flex-direction: column;
+        background-image: none;
+    }
+    .box1{
+        width: 100vw;
+    }
+
+    .about{
+        flex-direction: column;
+
+    }
+    .backimg{
+        width: 300px;
+        height: 300px;
+        /* margin-left:00px; */
+        position: absolute;
+        left: 0;
+        top: 750px;
+        /* margin: auto; */
+    }
+    .box2{
+        width: 100vw;
+        height: 500px;
+        margin-right:0px;  
+        top: 1000px;    
+        right:-50px;  
+
+    }
+    .box3{
+        width: 100vw;
+        height: 100vh;
+        margin-top: 800px;
+        font-size: medium;
+        margin-left: 100px;
+        flex-direction: column;
+    }
+    .box-in{
+        width: 100vw;
+    }
+    .box-section{
+        margin-left: 70px;
+        margin-bottom: 200px;
+    }
+    .box4{
+        flex-direction: column-reverse;
+        justify-content: space-around;
+        margin-top: 100px;
+    }
+    .right{
+        width: 100vw;
+        height: 100vh;
+        margin-left: 100px;
+        margin-top: 500px;
+        position: relative;
+        top: -200px;
+        left: 70px;
+
+    }
+    .right img{
+        width: 300px;
+        height: 300px;
+    }
+    .leftside{
+        width: 60vw;
+        height: 100vh;
+        position: relative;
+        top:-400px;
+    }
+    .section-5{
+        flex-direction: column;
+
+    }
+    .offer{
+        margin: 0;
+    }
+    .offer img{
+        width: 300px;
+        height: 300px;
+        position: relative;
+        left: -50px;
+    }
+    .section-5{
+        /* position: relative; */
+        margin-top: 50px;
+        margin-top: 100px;
+    }
+     .box5{
+        width: 100vw;
+        height: 100vh;
+     position: relative;
+     right: -70px;
+    
+
+
+    }
+    .section-6{
+        flex-direction: column-reverse;
+        margin-top: 100px;
+    }
+    .rightside img{
+        width: 300px;
+        height: 300px;
+        position: relative;
+        top: 50px;
+    }
+    .section-6 .leftside{
+        width: 100vw;
+        height: 100vh;
+        margin-left: 200px;
+        margin-top: 100px;
+    }
+    footer{
+        width: 100vw;
+        flex-direction: column;
+    }
+    .left-footer{
+        width: 100vw;
+        flex-wrap: nowrap;
+
+    }
+    .one{
+        width: 25vw;
+
+    }
+    .one a{
+        font-size: 12px;
+    }
+    .right-footer{
+        width: 100vw;
+        /* flex-direction: column; */
+    }
+    .text{
+        position: relative;
+    }
+    .footer-logo{
+        width: 50px;
+        height: 50px;
+    }
+  }
